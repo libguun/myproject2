@@ -3,8 +3,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 import modul as md
-import time
-from tkinter.filedialog import askopenfilename
 
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
